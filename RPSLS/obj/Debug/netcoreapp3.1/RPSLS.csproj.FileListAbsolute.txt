@@ -1,0 +1,13 @@
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.AssemblyInfoInputs.cache
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.AssemblyInfo.cs
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\bin\Debug\netcoreapp3.1\RPSLS.exe
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\bin\Debug\netcoreapp3.1\RPSLS.deps.json
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\bin\Debug\netcoreapp3.1\RPSLS.runtimeconfig.json
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\bin\Debug\netcoreapp3.1\RPSLS.runtimeconfig.dev.json
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\bin\Debug\netcoreapp3.1\RPSLS.dll
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\bin\Debug\netcoreapp3.1\RPSLS.pdb
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.dll
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.pdb
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.genruntimeconfig.cache
+C:\Users\augus\Documents\Programming\Practice\C#\RPSLS\RPSLS\obj\Debug\netcoreapp3.1\RPSLS.csproj.AssemblyReference.cache
