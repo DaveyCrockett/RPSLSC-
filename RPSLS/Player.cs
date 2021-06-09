@@ -9,6 +9,7 @@ namespace RPSLS
         
         public static string name = " ";
         public static string choice = " ";
+        public static int score = 0;
         
         public static List<string> CurrentGesture()
         {

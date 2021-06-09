@@ -7,6 +7,8 @@ namespace RPSLS
         static void Main(string[] args)
         {
             Human.choice();
+            Computer.computer_choice();
+            Computer.computer_choice();
         }
     }
 }
